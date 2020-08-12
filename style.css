@@ -1,0 +1,46 @@
+* {
+    color: dodgerblue;
+    background-color: #FAF3DD;
+    font-family: cursive, fantasy, serif;
+}
+
+h2 {
+    color: firebrick;
+}
+
+li {
+    color: dimgrey;
+}
+
+b {
+    font-size: 20px;
+    color: darkcyan;
+}
+
+i {
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+p i {
+    font-size: 20px;
+    color: mediumseagreen;
+}
+
+.images {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #FF8360;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Category {
+    display: flex;
+    flex: wrap;
+}
+
+img {
+    margin-bottom: -10px;
+}
